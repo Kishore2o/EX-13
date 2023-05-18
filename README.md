@@ -1,0 +1,18 @@
+# EX-13 SIMULATION OF OSPF USING OPNET SIMULATOR
+# EXPERIMENT : 5
+## DATE : 
+## AIM :
+## ALGORITHM :
+### CLIENT :
+
+### SERVER :
+
+## PROGRAM :
+
+### CLIENT :
+
+### SERVER :
+
+## OUTPUT :
+
+## RESULT :
